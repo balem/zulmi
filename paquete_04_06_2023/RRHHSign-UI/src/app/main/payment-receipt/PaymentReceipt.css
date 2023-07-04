@@ -1,0 +1,10 @@
+
+.fullWidth {
+    width: 100% !important;
+    min-width: 100% !important;
+    max-width: 100% !important;
+}
+
+.cellWidth30 {
+    width: 30%;
+}

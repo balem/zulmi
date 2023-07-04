@@ -1,0 +1,33 @@
+.avatarRegister {
+    width: 145px;
+    height: 145px;
+    margin-left: 25%;
+}
+
+.fullWidthSelect {
+    width: 100% !important;
+    min-width: 100% !important;
+    max-width: 100% !important;
+}
+
+.fullWidth {
+    width: 100% !important;
+    min-width: 100% !important;
+    max-width: 100% !important;
+}
+
+.fabStyle {
+    margin: 0;
+    top: auto;
+    right: 40px;
+    bottom: 40px;
+    left: auto;
+    position: fixed;
+    font-weight: normal;
+    z-index:1500;
+}
+
+.fabStyleEnabled {
+    background-color: #3FC0D1;
+    color: #333333;
+}

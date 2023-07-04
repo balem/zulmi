@@ -1,0 +1,22 @@
+.avatarRegister {
+    width: 145px;
+    height: 145px;
+    margin-left: 25%;
+}
+
+.fullWidth {
+    width: 100% !important;
+    min-width: 100% !important;
+    max-width: 100% !important;
+}
+
+
+.fullWidthSelect {
+    width: 100% !important;
+    min-width: 100% !important;
+    max-width: 100% !important;
+}
+
+.alignRight {
+    text-align: right;
+}

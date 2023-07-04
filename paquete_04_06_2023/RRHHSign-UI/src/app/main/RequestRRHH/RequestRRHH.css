@@ -1,0 +1,44 @@
+.avatarRegister {
+    width: 145px;
+    height: 145px;
+    margin-left: 25%;
+}
+
+.fullWidth {
+    width: 100% !important;
+    min-width: 100% !important;
+    max-width: 100% !important;
+}
+
+
+.fullWidthSelect {
+    width: 100% !important;
+    min-width: 100% !important;
+    max-width: 100% !important;
+}
+
+.alignRight {
+    text-align: right;
+}
+.blue {
+    color: #BDC8F8;
+}
+
+.green {
+    color: #BBFABD;
+}
+
+.yellow {
+    color: #F9F8AE;
+}
+
+.red {
+    color: #F5B6AD;
+}
+.gray{
+    color:#ABA9A9;
+}
+.swal-wide{
+    width:750px !important;
+    height: 300px !important;
+}

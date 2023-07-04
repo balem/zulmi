@@ -1,0 +1,3 @@
+import UploadEmployeeHolographicSignature from './UploadEmployeeHolographicSignature.js';
+
+export default UploadEmployeeHolographicSignature;

@@ -1,0 +1,47 @@
+[data-column-id="recibo"].rdt_TableCol {
+  font-weight: bold;
+  font-size: 15px;
+}
+
+[data-column-id="mes"].rdt_TableCol {
+  font-weight: bold;
+  font-size: 15px;
+}
+
+[data-column-id="tipo"].rdt_TableCol {
+  font-weight: bold;
+  font-size: 15px;
+}
+
+[data-column-id="sucursal"].rdt_TableCol {
+  font-weight: bold;
+  font-size: 15px;
+}
+
+[data-column-id="empleado"].rdt_TableCol {
+  font-weight: bold;
+  font-size: 15px;
+}
+
+[data-column-id="firma"].rdt_TableCol {
+  font-weight: bold;
+  font-size: 15px;
+}
+
+[data-column-id="envio"].rdt_TableCol {
+  font-weight: bold;
+  font-size: 15px;
+}
+
+[data-column-id="firmadir"].rdt_TableCol {
+  font-weight: bold;
+  font-size: 15px;
+}
+
+[data-column-id="firmaemp"].rdt_TableCol {
+  font-weight: bold;
+  font-size: 15px;
+}
+
+
+
